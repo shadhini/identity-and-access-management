@@ -1,2 +1,2 @@
-# identity-and-access-management
+# `IAM`: Identity and Access Management
 Explore concepts and technologies related to IAM: Identity and Access Management

@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# IntelliJ IDE related file
+/.idea/
+*.iml
+
+# Python virtual environments
+/jwks/venv/
+
+
+# Project specific files
+/jwks/private_key.pem
+/jwks/public_key.pem
