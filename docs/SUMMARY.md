@@ -16,6 +16,8 @@
 * [Permissions & Roles](iam/permissions-and-roles.md)
 * [RBAC: Role-Based Access Control](iam/rbac-role-based-access-control.md)
 * [User Stores](iam/user-stores.md)
+* [SCA: Strong Customer Authentication](iam/sca-strong-customer-authentication.md)
+* [Identifier-first Authentication](iam/identifier-first-authentication.md)
 
 ## WSO2 Identity Server
 
@@ -25,3 +27,4 @@
 ## OAuth2 and OIDC
 
 * [OIDC: OpenID Connect Flow](oauth2-and-oidc/oidc-openid-connect-flow.md)
+* [OAuth2.0 JWT Bearer](oauth2-and-oidc/oauth2.0-jwt-bearer.md)
